@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'C:/Users/danie/.m2/repository/org/jopendocument/jOpenDocument/1.3/jOpenDocument-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/danie/Escritorio/libreta/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/danie/Escritorio/libreta/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'libreta 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/danie/Escritorio/libreta/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'libreta 1.0-SNAPSHOT API'
+org.pr2
+org.pr2.dominio
+org.pr2.interfaces
+C:\Users\danie\.m2\repository\org\jopendocument\jOpenDocument\1.3\jOpenDocument-1.3.jar = 1681120899577
+C:\Users\danie\Escritorio\libreta\src\main\java = 1681118126649
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\allclasses-index.html = 1681121921053
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\allpackages-index.html = 1681121921055
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\copy.svg = 1681121921079
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\element-list = 1681121921013
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\help-doc.html = 1681121921075
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\index-all.html = 1681121921066
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\index.html = 1681121921046
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\member-search-index.js = 1681121921058
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\module-search-index.js = 1681121921056
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\overview-summary.html = 1681121921069
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\overview-tree.html = 1681121921044
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\package-search-index.js = 1681121921057
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\script.js = 1681121921078
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\search-page.js = 1681121921081
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\search.html = 1681121921068
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\search.js = 1681121921080
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\stylesheet.css = 1681121921077
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\tag-search-index.js = 1681121921059
+C:\Users\danie\Escritorio\libreta\target\site\apidocs\type-search-index.js = 1681121921057
